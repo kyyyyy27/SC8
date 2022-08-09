@@ -6,11 +6,9 @@ Hai 👋
 𝐈𝐧𝐢 𝐥𝐢𝐬𝐭 𝐬𝐞𝐰𝐚 𝐤𝐚𝐦𝐢 𝐬𝐢𝐥𝐚𝐡𝐤𝐚𝐧 𝐝𝐢𝐩𝐢𝐥𝐢𝐡
 
 ┏━━━•❅•°•❈〔 𝐋𝐢𝐬𝐭 𝐒𝐞𝐰𝐚 〕
-┣★ミ Premium : 10k/Bulan
-┣★ミ Premium : 15k/2bulan
-┣★ミ Sewabot + running : 10k/bulan
-┣★ミ Sewabot + Running : 20k/2bulan
-┣★ミ Undang bot ke grup : 5k/bulan
+┣★ミ Premium : 4k
+┣★ミ Sewabot + Permanen : 5k/2Grup
+┣★ミ Sewabot + Permanen : 8k/4Grup
 ┣➲ Scan Barcod Qrisnya diatas🤗
 ┗━━━•❅•°•❈
 
@@ -20,8 +18,8 @@ Hai 👋
 ┣➲ bisa invite bot ke grup
 ┗━━━•❅•°•❈
 Contact person Owner:
-wa.me/6281511480762 (Owner)`
-let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C1BfTNk2/6bfc0fa448e61d8f7fe5323fcfd28518.jpg' }}, { upload: conn.waUploadToServer })
+wa.me/6283830815715 (Owner)`
+let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/8b56819006176f6cbbe22.jpg' }}, { upload: conn.waUploadToServer })
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
          hydratedTemplate: {
@@ -31,7 +29,7 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://i.postimg.cc/C
            hydratedButtons: [{
              urlButton: {
                displayText: 'Dana',
-               phoneNumber: '081511480762'
+               phoneNumber: '085784914140'
              }
 
            },
