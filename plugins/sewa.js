@@ -35,8 +35,8 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            },
                {
              callButton: {
-               displayText: 'Gopay',
-               phoneNumber: '081511480762'
+               displayText: 'Dana²',
+               phoneNumber: '085784914140'
              }
            },           
                {
