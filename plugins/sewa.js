@@ -28,14 +28,14 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: 'Dana',
-               phoneNumber: '085784914140'
+               displayText: 'Saweria',
+               phoneNumber: 'https://saweria.co/NakanooMikuu'
              }
 
            },
                {
              callButton: {
-               displayText: 'Dana²',
+               displayText: 'Dana',
                phoneNumber: '085784914140'
              }
            },           
