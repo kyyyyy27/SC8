@@ -205,7 +205,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            {
              quickReplyButton: {
                displayText: '📳SewaBot',
-               id: '5K permanen kok',
+               id: '.owner',
              }
            }]
          }
