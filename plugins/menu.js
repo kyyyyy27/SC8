@@ -47,7 +47,6 @@ const defaultMenu = {
 ╟📅 *𝐓𝐚𝐧𝐠𝐠𝐚𝐥:* %date
 ╟🕔 *𝐔𝐩𝐭𝐢𝐦𝐞:* %uptime (%muptime)
 ╟👨‍ *𝐒𝐚𝐫𝐚𝐧𝐠𝐁𝐨𝐭:*
-╟https://github.com/AzzBott679
 ╚»★★ミ✧･ﾟ: ✧ﾟ･:
 
 
@@ -59,7 +58,7 @@ const defaultMenu = {
   body: '│ ○ %cmd %islimit %isPremium',
   footer: '▣────────────⬣\n',
   after: `*Recode by*
-*YahyaGanzz* | %version
+*Zhiroo* | %version
 ${'```%npmdesc```'}
 `,
 }
@@ -177,15 +176,15 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '✏️ Yt Chanel',
-               url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+               displayText: 'Saweria',
+               url: 'https://saweria.co/NakanooMikuu'
              }
 
            },
              {
              callButton: {
                displayText: 'Hp Owner',
-               PhoneNumber: '0815-1148-0872'
+               PhoneNumber: '6283830815715'
              }
 
            },
@@ -206,7 +205,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            {
              quickReplyButton: {
                displayText: '📳SewaBot',
-               id: '.sc',
+               id: '5K permanen kok',
              }
            }]
          }
